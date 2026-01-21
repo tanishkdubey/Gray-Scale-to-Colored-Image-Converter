@@ -28,3 +28,16 @@ This approach is based on research by **Zhang et al. (2016)** on automatic image
 
 ---
 
+## 📂 Project Structure
+GrayTocolored/
+│
+├── Model/
+│ ├── colorization_deploy_v2.prototxt
+│ ├── colorization_release_v2.caffemodel
+│ └── pts_in_hull.npy
+│
+├── images/
+│ └── img1.jpg
+│
+├── GrayscaleTocolored.py
+└── README.md
