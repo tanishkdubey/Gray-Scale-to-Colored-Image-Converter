@@ -28,5 +28,3 @@ This approach is based on research by **Zhang et al. (2016)** on automatic image
 
 ---
 
-## 📂 Project Structure
-
